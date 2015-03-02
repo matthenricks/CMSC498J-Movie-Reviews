@@ -6,6 +6,7 @@ Main repository for the CMSC498J project
 <b>Web Crawlers:</b>
 <ul><li>Chrome add on: webscraper.io</li>
 <li>Python Packages: Beautiful Soup and <a href="http://docs.python-requests.org/en/latest/index.html">Requests</a></li>
+<li>Node.js: <a href="https://www.npmjs.com/package/imdb-api">Alternative IMDB API</a>
 </ul>
 
 <b>Current Ideas</b>
