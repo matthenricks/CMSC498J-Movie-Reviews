@@ -13,6 +13,7 @@ Main repository for the CMSC498J project
 <ul><li>NTLK with <a href="http://nltk-trainer.readthedocs.org/en/latest/">NTLK Trainer</a></li>
 <li>Positive/Negative classification with NTLK, no negator words taken into account <a href="http://andybromberg.com/sentiment-analysis-python/">tutorial</a>.</li>
 <li>Utilizing <a href="http://stackoverflow.com/questions/21107075/classification-using-movie-review-corpus-in-nltk-python">movie review corpus</a> in NLTK</li>
+<li><a href="http://www.nltk.org/book_1ed/">NTLK Book</a></li>
 </ul>
 
 <b>Current Ideas</b>
