@@ -9,6 +9,12 @@ Main repository for the CMSC498J project
 <li>Node.js: <a href="https://www.npmjs.com/package/imdb-api">Alternative IMDB API</a>
 </ul>
 
+<b>Sentiment Analysis:</b>
+<ul><li>NTLK with <a href="http://nltk-trainer.readthedocs.org/en/latest/">NTLK Trainer</a></li>
+<li>Positive/Negative classification with NTLK, no negator words taken into account <a href="http://andybromberg.com/sentiment-analysis-python/">tutorial</a>.</li>
+<li>Utilizing <a href="http://stackoverflow.com/questions/21107075/classification-using-movie-review-corpus-in-nltk-python">movie review corpus</a> in NLTK</li>
+</ul>
+
 <b>Current Ideas</b>
 <ul><li>Do helpful common words/sentiment evolve over time?</li>
 <li>What predicts strong reviews? (Sentiment, length, originality, date, reviewer, genre)</li>
